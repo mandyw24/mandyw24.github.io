@@ -10981,7 +10981,7 @@ body {
 
 #mainNav {
   min-height: 3.5rem;
-  background-color: hsla(var(--black-hsl),1);
+  background-color: #fff
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
